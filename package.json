@@ -1,0 +1,31 @@
+{
+  "name": "react",
+  "version": "0.0.0",
+  "description": "a little reactjs experiment",
+  "main": "index.js",
+  "directories": {
+    "example": "examples",
+    "test": "test"
+  },
+  "dependencies": {
+    "chai": "^2.3.0",
+    "react-tools": "^0.13.2"
+  },
+  "devDependencies": {
+    "chai": "^2.3.0",
+    "mocha": "^2.2.4"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bukzor/react.git"
+  },
+  "author": "Buck Evan <buck.2019@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bukzor/react/issues"
+  },
+  "homepage": "https://github.com/bukzor/react#readme"
+}
